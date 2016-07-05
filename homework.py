@@ -1,0 +1,10 @@
+import time
+gbp = int(input("gibe monay pl0x in gbp"))
+usd =(gbp*0.75)
+eur =(gbp*1.19)
+can = (gbp*1.7)
+nis = (gbp*5)
+print("That comes to $",usd)
+print("That comes to €",eur)
+print("That comes to CAN$",can)
+print("That comes to NIS",nis)
